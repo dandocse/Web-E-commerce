@@ -1,0 +1,17 @@
+.item{
+	height: 570px;
+	width: auto;
+	max-width: 1024px;
+}
+.nav .navbar-nav .navbar-right >li{
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+#li1{
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
